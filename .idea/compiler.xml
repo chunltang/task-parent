@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="collection" />
+        <module name="working" />
         <module name="swing" />
         <module name="thread" />
+        <module name="files" />
       </profile>
     </annotationProcessing>
   </component>

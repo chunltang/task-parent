@@ -12,6 +12,8 @@
         <module>collection</module>
         <module>thread</module>
         <module>swing</module>
+        <module>files</module>
+        <module>working</module>
     </modules>
 
     <!--属性设置-->
