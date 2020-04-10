@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18afee3b-e004-4a57-bd53-61bba04c6e49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/day200407/Java程序设计项目开发补考试题-1.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/day200407/threadTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/day200408/27dcf33bb71191c62cb3cd50e312a83.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/working/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18afee3b-e004-4a57-bd53-61bba04c6e49" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/collection/target/" />
@@ -34,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="968">
-              <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+            <state relative-caret-position="330">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -51,6 +40,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -186,8 +178,16 @@
       <updated>1586333096408</updated>
       <workItem from="1586333099214" duration="4386000" />
       <workItem from="1586342111590" duration="1082000" />
-      <workItem from="1586393161493" duration="1676000" />
+      <workItem from="1586393161493" duration="1838000" />
     </task>
+    <task id="LOCAL-00001" summary="新增目录和文件">
+      <created>1586394863942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586394863942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -196,7 +196,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7144000" />
+    <option name="totallyTimeSpent" value="7306000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -246,6 +246,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增目录和文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增目录和文件" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/collection/src/test/java/day200408/MyDateTest.java">
@@ -365,8 +369,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+        <state relative-caret-position="330">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
