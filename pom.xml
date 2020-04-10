@@ -14,12 +14,15 @@
         <module>swing</module>
         <module>files</module>
         <module>working</module>
+        <module>mvc</module>
     </modules>
 
     <!--属性设置-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <java.version>1.8</java.version>
     </properties>
 
