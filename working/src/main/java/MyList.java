@@ -1,5 +1,3 @@
-package day200408;
-
 import java.lang.reflect.Array;
 
 public class MyList<E> implements Collection<E> {
@@ -59,7 +57,12 @@ public class MyList<E> implements Collection<E> {
         if(null!=first){
             //处理删除第一个元素的情况
             if(first.equals(e)){
-                first=first.next;
+                Node<E> next = first.next;
+                first=null;
+                if(null!=next){
+                    next.prev=null;
+                }
+                first=next;
                 size--;
             }
             Node<E> node = first;

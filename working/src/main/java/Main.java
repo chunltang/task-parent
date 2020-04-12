@@ -1,5 +1,3 @@
-package day200408;
-
 import java.util.Random;
 
 public class Main {
