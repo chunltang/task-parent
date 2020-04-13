@@ -7,11 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="files" />
+        <module name="collection" />
         <module name="mvc" />
-        <module name="thread" />
         <module name="working" />
         <module name="swing" />
-        <module name="collection" />
+        <module name="thread" />
       </profile>
     </annotationProcessing>
   </component>
