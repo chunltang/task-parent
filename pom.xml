@@ -15,6 +15,9 @@
         <module>files</module>
         <module>working</module>
         <module>mvc</module>
+        <module>pattern</module>
+        <module>math</module>
+        <module>comprehensive</module>
     </modules>
 
     <!--属性设置-->

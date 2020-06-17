@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="files" />
-        <module name="collection" />
-        <module name="mvc" />
+        <module name="math" />
         <module name="working" />
-        <module name="swing" />
+        <module name="mvc" />
+        <module name="pattern" />
         <module name="thread" />
+        <module name="comprehensive" />
+        <module name="files" />
+        <module name="swing" />
+        <module name="collection" />
       </profile>
     </annotationProcessing>
   </component>

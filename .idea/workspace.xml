@@ -6,7 +6,92 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18afee3b-e004-4a57-bd53-61bba04c6e49" name="Default Changelist" comment="" />
+    <list default="true" id="18afee3b-e004-4a57-bd53-61bba04c6e49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/comprehensive/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/nodes/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/nodes/Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/nodes/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/observer/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/observer/Observerable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/process/Eclipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/process/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/main/resources/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comprehensive/src/test/java/com/study/file/FileSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200407/url.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200408/url.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200411/url.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200411/作业须知.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t1/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t1/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t1/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t1/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t1/MyStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t1/学号姓名实验报告1.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/Assignment 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/a1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/t2/问题.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200412/url.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/uml图/Directory_UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/uml图/FileSystem_UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/uml图/Files_UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/uml图/Listener_UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/uml图/Node_UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/uml图/Observer_UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/uml图/Observerable_UML.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/测试结果/findTest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/测试结果/importTest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/day200601/测试结果/observerTest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200412/ProblemA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200412/ProblemB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200412/ProblemC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200412/ProblemD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200615/源码/SortMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200615/源码/printMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200615/程序运行结果/打印周年截图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200615/程序运行结果/排序截图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/math/src/main/java/day200615/需求文件/7e04018958430cab1a766dec194e932.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/day200411/CheckData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/day200411/DealData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/day200411/HydrologicalInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/day200411/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/CardAndUserInformationDisplayPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/CardAndUserRegisterSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/CardQueryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/CardRegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/Coupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/DiscountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/MainSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/PlatinumCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/StringForFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/TicketRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/TicketType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing/src/main/java/day200601/TitaniumCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection/src/main/java/day200408/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection/src/main/java/day200408/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection/src/main/java/day200408/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/collection/src/main/java/day200408/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/working/pom.xml" afterDir="false" />
+    </list>
     <list id="d6ca6cbb-ab72-402c-9a29-93660635f1fa" name="ignore" comment="ignore" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,6 +101,9 @@
     <ignored path="$PROJECT_DIR$/files/target/" />
     <ignored path="$PROJECT_DIR$/working/target/" />
     <ignored path="$PROJECT_DIR$/mvc/target/" />
+    <ignored path="$PROJECT_DIR$/pattern/target/" />
+    <ignored path="$PROJECT_DIR$/math/target/" />
+    <ignored path="$PROJECT_DIR$/comprehensive/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,97 +116,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2332">
+              <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
-              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mvc/pom.xml">
+        <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="1386">
+              <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/index.html">
+        <entry file="file://$PROJECT_DIR$/math/src/main/java/day200412/ProblemA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mvc/src/main/java/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="88">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/math/src/main/java/day200615/源码/printMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mvc/src/main/java/login/login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/login/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#dir#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/login/success.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collection/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="286">
+              <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -128,6 +165,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -159,6 +198,34 @@
         <option value="$PROJECT_DIR$/mvc/src/main/java/login/login.java" />
         <option value="$PROJECT_DIR$/mvc/src/main/java/HelloWorld.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/collection/src/main/java/day200408/MyList.java" />
+        <option value="$PROJECT_DIR$/collection/src/main/java/day200408/Main.java" />
+        <option value="$PROJECT_DIR$/working/src/main/java/MyDate.java" />
+        <option value="$PROJECT_DIR$/working/src/test/java/MyListTest.java" />
+        <option value="$PROJECT_DIR$/working/pom.xml" />
+        <option value="$PROJECT_DIR$/working/src/main/java/MyList.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/day200411/HydrologicalInfo.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/day200411/Main.java" />
+        <option value="$PROJECT_DIR$/files/day200411/url.txt" />
+        <option value="$PROJECT_DIR$/files/day200408/url.txt" />
+        <option value="$PROJECT_DIR$/files/day200407/url.txt" />
+        <option value="$PROJECT_DIR$/files/day200412/url.txt" />
+        <option value="$PROJECT_DIR$/math/src/main/java/day200412/ProblemA.java" />
+        <option value="$PROJECT_DIR$/swing/src/main/java/day200523/task/DiscountType.java" />
+        <option value="$PROJECT_DIR$/swing/src/main/java/day200523/task/Discount.java" />
+        <option value="$PROJECT_DIR$/swing/src/main/java/day200523/task/Coupon.java" />
+        <option value="$PROJECT_DIR$/swing/src/main/java/day200523/task/FlyerCard.java" />
+        <option value="$PROJECT_DIR$/swing/src/main/java/day200523/task/MainSystem.java" />
+        <option value="$PROJECT_DIR$/swing/src/main/java/day200601/TicketType.java" />
+        <option value="$PROJECT_DIR$/comprehensive/src/main/java/day200601/system/src/main/java/com/study/file/nodes/Node.java" />
+        <option value="$PROJECT_DIR$/comprehensive/src/main/java/system/src/main/java/com/study/file/nodes/Node.java" />
+        <option value="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/nodes/Node.java" />
+        <option value="$PROJECT_DIR$/comprehensive/pom.xml" />
+        <option value="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/FileSystem.java" />
+        <option value="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/process/Eclipse.java" />
+        <option value="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/process/Word.java" />
+        <option value="$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/nodes/Files.java" />
+        <option value="$PROJECT_DIR$/comprehensive/src/test/java/com/study/file/FileSystemTest.java" />
       </list>
     </option>
   </component>
@@ -186,19 +253,21 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="130" />
-    <option name="y" value="130" />
-    <option name="width" value="1582" />
-    <option name="height" value="702" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="NBKnowledgePane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,23 +278,43 @@
             <path>
               <item name="task-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="task-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="task-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="task-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="NBKnowledgePane" />
       <pane id="Scope" />
       <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mvc/src/main/webapp/login" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/comprehensive/src/main/java/day200617" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -240,18 +329,26 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\task-parent\comprehensive\src\main\resources" />
+      <recent name="D:\idea\task-parent\files\day200601" />
+      <recent name="D:\idea\task-parent\pattern" />
+      <recent name="D:\idea\task-parent\pattern\src" />
+      <recent name="D:\idea\task-parent\math\src\main\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="day200408" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="login" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\idea\task-parent\mvc\src\main\webapp\login" />
-      <recent name="D:\idea\task-parent\files\day200407" />
-      <recent name="D:\idea\task-parent\files\day200408" />
-      <recent name="D:\idea\task-parent\collection\src\test\java" />
-      <recent name="D:\idea\task-parent\collection\src\main\java" />
+      <recent name="D:\idea\task-parent\math\src\main\java\day200615" />
+      <recent name="D:\idea\task-parent\comprehensive" />
+      <recent name="D:\idea\task-parent\comprehensive\src\main\java" />
+      <recent name="D:\idea\task-parent\swing\src\main\java\day200601" />
+      <recent name="D:\idea\task-parent\files\day200412\t2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -266,20 +363,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.tomcat">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day200408.Main" />
-      <module name="collection" />
+  <component name="RunManager" selected="Application.Question3">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="working" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="collection" />
-      <option name="PACKAGE_NAME" value="day200408" />
-      <option name="MAIN_CLASS_NAME" value="day200408.MyListTest" />
-      <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day200411.Main" />
+      <module name="pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day200411.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day200407.Question1" />
+      <module name="swing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day200407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day200407.Question2" />
+      <module name="swing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day200407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day200407.Question3" />
+      <module name="swing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day200407.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -365,14 +504,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.MyListTest.testAdd" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Question1" />
+      <item itemvalue="Application.Question2" />
+      <item itemvalue="Application.Question3" />
       <item itemvalue="Tomcat Server.tomcat" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MyListTest.testAdd" />
+        <item itemvalue="Application.Question3" />
+        <item itemvalue="Application.Question2" />
+        <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +538,20 @@
       <workItem from="1586412065514" duration="35000" />
       <workItem from="1586497982800" duration="4955000" />
       <workItem from="1586507868270" duration="240000" />
-      <workItem from="1586508132522" duration="3766000" />
+      <workItem from="1586508132522" duration="3543000" />
+      <workItem from="1586567622812" duration="80000" />
+      <workItem from="1586600191984" duration="290000" />
+      <workItem from="1586604358597" duration="345000" />
+      <workItem from="1586668533135" duration="4047000" />
+      <workItem from="1586700167366" duration="312000" />
+      <workItem from="1590215278846" duration="2664000" />
+      <workItem from="1590288816667" duration="6959000" />
+      <workItem from="1590369159160" duration="67000" />
+      <workItem from="1590972611155" duration="1441000" />
+      <workItem from="1590991321186" duration="3986000" />
+      <workItem from="1592191740205" duration="59000" />
+      <workItem from="1592193566866" duration="135000" />
+      <workItem from="1592268982116" duration="467000" />
     </task>
     <task id="LOCAL-00001" summary="新增mvc模块">
       <created>1586511024806</created>
@@ -402,21 +560,7 @@
       <option name="project" value="LOCAL" />
       <updated>1586511024806</updated>
     </task>
-    <task id="LOCAL-00002" summary="新增mvc模块">
-      <created>1586511691599</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1586511691599</updated>
-    </task>
-    <task id="LOCAL-00003" summary="ignore">
-      <created>1586511821199</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1586511821199</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -425,7 +569,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16140000" />
+    <option name="totallyTimeSpent" value="39221000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,7 +584,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27586207" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2661638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -451,8 +595,8 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32883435" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6233129" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4257669" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5558282" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1582822" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32883435" />
@@ -461,10 +605,11 @@
       <window_info anchor="bottom" id="Docker" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32883435" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Tail" order="13" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32883435" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Statistic" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -476,161 +621,38 @@
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Mybatis datasource" order="11" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <confirmRemoveEmptyChangelist value="1" />
     <MESSAGE value="新增mvc模块" />
-    <MESSAGE value="ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增mvc模块" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/collection/src/main/java/day200408/Main.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>myList.getFirst()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/collection/src/test/java/day200408/MyDateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/test/java/day200408/MyListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/day200408/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/day200408/MyList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread/src/main/java/day200407/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-          <folding>
-            <element signature="e#951#1520#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/day200408/27dcf33bb71191c62cb3cd50e312a83.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/day200407/threadTest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/files/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/day200408/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/src/main/java/day200408/MyDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/working/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mvc/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/collection/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -638,20 +660,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/login/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#dir#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/login/success.html">
+    <entry file="file://$PROJECT_DIR$/mvc/src/main/java/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -662,20 +677,238 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mvc/src/main/java/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/login/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/login/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvc/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/MainPage.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/CardQueryPage.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/MainSystem.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/CardAndUserRegisterSystem.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/CardAndUserInformationDisplayPage.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/CardRegisterPage.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/Discount.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/DiscountType.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/Coupon.java" />
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200523/task/FlyerCard.java" />
+    <entry file="file://$PROJECT_DIR$/collection/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/DiscountType.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/PlatinumCard.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/CardQueryPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/CardRegisterPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/StringForFile.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/Card.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/Constant.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/MainSystem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/TicketRecord.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/CardAndUserRegisterSystem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200601/TicketType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/system/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/comprehensive/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/process/Eclipse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/process/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/observer/Listener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/observer/Observerable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/nodes/Directory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/nodes/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/nodes/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/main/java/day200601/com/study/file/FileSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="122" column="21" lean-forward="true" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/working/src/main/java/MyDate.java" />
+    <entry file="file://$PROJECT_DIR$/comprehensive/src/test/java/com/study/file/FileSystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2332">
+          <caret line="111" column="28" selection-start-line="111" selection-start-column="28" selection-end-line="111" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swing/src/main/java/day200407/Question3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/src/main/java/day200412/ProblemA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/src/main/java/day200615/源码/printMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
       </provider>
     </entry>

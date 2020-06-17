@@ -31,6 +31,15 @@ public class Main {
         boolean contains = myList.contains(myDate);
         System.out.println("测试contains方法："+contains);
 
+
+        //获取第一个元素
+        MyDate first = myList.getFirst();
+        //首节点删除
+        myList.remove(first);
+        System.out.println("\r\n首节点删除测试，删除元素后size="+myList.size());
+        System.out.println("删除第一个元素后，第一个元素变为："+myList.getFirst().toString());
+        System.out.println("myList打印结果："+myList.toString());
+
         //使用equals判断相等的元素都删除，可能删除0至多个
         myList.remove(myDate);
         System.out.println("测试remove方法，删除元素后size="+myList.size());

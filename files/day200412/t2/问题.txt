@@ -1,0 +1,47 @@
+a.https://www.csdndoc.com/article/4331409
+b.https://www.jianshu.com/p/2be990a4da44
+c.https://www.cnblogs.com/fengzhongzhuifeng/p/10711608.html
+d:https://blog.csdn.net/huhaishen/article/details/80629747
+
+
+1 2 3 5 7 10 13 17 21 26 31 37 43 50 57
+
+a.
+
+a rectangle is represented as a list
+矩形被表示为一个列表
+
+two rectangles overlap the area of their intersection is positive
+两个矩形的交点的面积是正的
+
+tow rectangles that only touch at the corner  or deges do not overlap
+两个矩形只在角上接触或不重叠
+
+given many rectangles,return whether they overlap
+给定多个矩形，返回它们是否重叠
+
+the first line is an integer n,which means their are n pairs rectangles
+第一行是一个整数n，这意味着它们是n对矩形
+
+第一行是一个整数n，这意味着它们是n对矩形
+接下来的n行包含两个矩形的坐标
+
+
+b.
+
+you are given two jugs with capacities x and y litres.there is an infinite amount of water supply available. you need to determine whether it is possible to measure exactly z litres using there two jugs.
+给你两壶水，容量分别是x升和y升。水的供应量是无限的。你需要确定是否有可能准确地测量z升使用两个壶。
+
+if z liters of water is measureable,you must have z liters of water contained within one or both buckets by the end
+如果z公升的水是可测量的，你必须在最后把z公升的水装在一个或两个桶里。
+
+操作允许:
+把所有的水壶装满水。
+把所有的水壶都倒空。
+从一个罐子里往另一个罐子里倒水，直到另一个罐子完全灌满水，或者第一个罐子是空的
+
+第一行是一个整数n，这意味着它们是n种不同的情况;
+接下来的n行包含三个罐子的容量(x,y,z)
+
+如果你能在罐子里留下z公升的水，你应该打印真，否则打印假
+abs(x-y),x,y

@@ -56,23 +56,30 @@ public class MyList<E> implements Collection<E> {
      * */
     @Override
     public void remove(E e) {
-        Node<E> node = first;
-        for (int i = 0; i < size; i++) {
-            if(node.item.equals(e)){
-                Node<E> prev = node.prev;
-                Node<E> next = node.next;
-                //将查找到的元素删除，并将该元素的前后节点进行关联
-                if(null!=prev){
-                    prev.next=next;
-                }
-                if(null!=next){
-                    next.prev=prev;
-                }
-                node=null;
-                node=next;
+        if(null!=first){
+            //处理删除第一个元素的情况
+            if(first.equals(e)){
+                first=first.next;
                 size--;
-            }else{
-                node=node.next;
+            }
+            Node<E> node = first;
+            for (int i = 0; i < size; i++) {
+                if(node.item.equals(e)){
+                    Node<E> prev = node.prev;
+                    Node<E> next = node.next;
+                    //将查找到的元素删除，并将该元素的前后节点进行关联
+                    if(null!=prev){
+                        prev.next=next;
+                    }
+                    if(null!=next){
+                        next.prev=prev;
+                    }
+                    node=null;
+                    node=next;
+                    size--;
+                }else{
+                    node=node.next;
+                }
             }
         }
     }
